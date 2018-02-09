@@ -21,6 +21,6 @@
 * Use React Navigation to create a click-able link on those breeds that have sub breeds in order to achieve this.
 
 ## Stretch Problem 2
-* We have a server that we've previously built in class that makes use of the JWT library. A link to that server can be found [here]().
+* We have a server that we've previously built in class that makes use of the JWT library. A link to that server can be found [here](https://github.com/LambdaSchool/Auth-JWT).
 * Your goal is to create a project that makes use of this server. 
 * This will be a separate app after you've submitted the Pull-Request for the app created above. 
